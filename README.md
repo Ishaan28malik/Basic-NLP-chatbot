@@ -1,5 +1,6 @@
 # Basic-NLP-chatbot
 
+### It's a food ordering bot 
 Word Vectors + Heuristic 
 
 Got inspired from 
